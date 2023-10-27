@@ -11,5 +11,5 @@ Please include a summary of the changes and the related issue. Please also inclu
 # Reviewer
 
 - [ ] Have you check that styles inline were not added?
-- [ ] Have you check bussiness logic?
+- [ ] Have you check business logic?
 - [ ] Is the code easy to read?
